@@ -6,4 +6,3 @@ lazy42/
 *.log
 __pycache__/
 *.pyc
-.env
