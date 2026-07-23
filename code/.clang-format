@@ -1,0 +1,26 @@
+BasedOnStyle: LLVM
+BreakBeforeBraces: Allman
+
+UseTab: Always
+TabWidth: 4
+IndentWidth: 4
+ContinuationIndentWidth: 4
+
+AllowShortFunctionsOnASingleLine: None
+AllowShortBlocksOnASingleLine: Never
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortEnumsOnASingleLine: false
+
+MaxEmptyLinesToKeep: 1
+
+AlignTrailingComments: false
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+AlignAfterOpenBracket: DontAlign
+AlignOperands: false
+AlignEscapedNewlines: Left
+
+PointerAlignment: Right
+ColumnLimit: 80
