@@ -1,0 +1,13 @@
+Checkpoint 00 : Re-code Question 01
+Assignment name  : clean_objects
+Expected files   : clean_objects
+Allowed functions: None
+--------------------------------------------------------------------------------
+
+In a file called clean_objects, place a command line that searches the current
+directory and all its sub-directories for regular files whose names end with
+".o".
+
+The command must display and delete every file found.
+
+Only one command is allowed.

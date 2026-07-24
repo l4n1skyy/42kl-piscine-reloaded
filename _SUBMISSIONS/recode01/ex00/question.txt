@@ -1,0 +1,13 @@
+Checkpoint 01: Re-code Question 00
+Assignment name  : minisort
+Expected files   : minisort.c
+Allowed functions: None
+--------------------------------------------------------------------------------
+
+Write a function that sorts three integers in ascending order.
+
+The integers must be modified through the pointers received as parameters.
+
+Your function must be declared as follows:
+
+void    minisort(int *a, int *b, int *c);

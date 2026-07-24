@@ -1,0 +1,10 @@
+Checkpoint 00 : Re-code Question 00
+Assignment name  : find_c
+Expected files   : find_c.sh
+Allowed functions: None
+--------------------------------------------------------------------------------
+
+Write a shell script that searches the current directory and all its
+sub-directories for files whose names end with ".c".
+
+The script must display only the name of each file, without the ".c" extension.

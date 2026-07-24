@@ -1,0 +1,21 @@
+Checkpoint 01: Re-code Question 01
+Assignment name  : ft_digital_root
+Expected files   : ft_digital_root.c
+Allowed functions: None
+--------------------------------------------------------------------------------
+
+Write a function that repeatedly adds the digits of a positive integer until
+only one digit remains.
+
+The function must return the final digit.
+
+For example:
+
+942 becomes 9 + 4 + 2 = 15
+15 becomes 1 + 5 = 6
+
+Therefore, ft_digital_root(942) returns 6.
+
+Your function must be declared as follows:
+
+int    ft_digital_root(int nb);

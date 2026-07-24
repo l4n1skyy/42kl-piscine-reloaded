@@ -1,0 +1,13 @@
+Checkpoint 01: Re-code Question 02
+Assignment name  : ft_putnbr
+Expected files   : ft_putnbr.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a function that displays the number given as a parameter.
+
+The function must be able to display all possible values within an int.
+
+Your function must be declared as follows:
+
+void    ft_putnbr(int nb);
