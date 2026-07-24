@@ -8,3 +8,5 @@ AllowShortFunctionsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
 IndentCaseLabels: false
 ColumnLimit: 80
+IndentPPDirectives: AfterHash
+PPIndentWidth: 1
