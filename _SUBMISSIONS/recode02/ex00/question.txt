@@ -1,0 +1,17 @@
+Assignment name  : ft_itoa
+Expected files   : ft_itoa.c
+Allowed functions: malloc
+--------------------------------------------------------------------------------
+
+Write a function that allocates and returns a string representing the integer
+received as an argument.
+
+Negative numbers must be handled.
+
+The returned string must be null-terminated.
+
+If the allocation fails, the function must return NULL.
+
+Your function must be declared as follows:
+
+char	*ft_itoa(int nbr);

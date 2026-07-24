@@ -1,0 +1,43 @@
+Checkpoint 02 : Re-code Question 01
+Assignment name  : reverse_abbreviate
+Expected files   : reverse_abbreviate.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes a string and displays its words in reverse order.
+
+A word is a sequence of characters separated by spaces or tabs.
+
+Words containing three characters or fewer must be displayed unchanged.
+
+For every longer word, display:
+
+- its first character;
+- the number of characters between its first and last characters;
+- its last character.
+
+The resulting words must be separated by a single space, followed by a newline.
+
+If the number of arguments is not exactly 1, display only a newline.
+
+Examples:
+
+$> ./reverse_abbreviate "Piscine Reloaded is interesting"
+i9g is R6d P5e
+$>
+
+$> ./reverse_abbreviate "hello from 42"
+42 f2m h3o
+$>
+
+$> ./reverse_abbreviate "  learning    C is fun  "
+fun is C l6g
+$>
+
+$> ./reverse_abbreviate "cat"
+cat
+$>
+
+$> ./reverse_abbreviate | cat -e
+$
+$>
